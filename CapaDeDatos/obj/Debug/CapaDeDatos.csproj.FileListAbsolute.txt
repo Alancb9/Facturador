@@ -1,0 +1,9 @@
+D:\Proyectos c#\Facturador\CapaDeDatos\bin\Debug\CapaDeDatos.dll
+D:\Proyectos c#\Facturador\CapaDeDatos\bin\Debug\CapaDeDatos.pdb
+D:\Proyectos c#\Facturador\CapaDeDatos\bin\Debug\CapaDeEntidades.dll
+D:\Proyectos c#\Facturador\CapaDeDatos\bin\Debug\CapaDeEntidades.pdb
+D:\Proyectos c#\Facturador\CapaDeDatos\obj\Debug\CapaDeDatos.csproj.AssemblyReference.cache
+D:\Proyectos c#\Facturador\CapaDeDatos\obj\Debug\CapaDeDatos.csproj.CoreCompileInputs.cache
+D:\Proyectos c#\Facturador\CapaDeDatos\obj\Debug\CapaDeDatos.csproj.CopyComplete
+D:\Proyectos c#\Facturador\CapaDeDatos\obj\Debug\CapaDeDatos.dll
+D:\Proyectos c#\Facturador\CapaDeDatos\obj\Debug\CapaDeDatos.pdb

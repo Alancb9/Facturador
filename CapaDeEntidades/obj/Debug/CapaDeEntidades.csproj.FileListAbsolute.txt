@@ -1,0 +1,6 @@
+D:\Proyectos c#\Facturador\CapaDeEntidades\bin\Debug\CapaDeEntidades.dll
+D:\Proyectos c#\Facturador\CapaDeEntidades\bin\Debug\CapaDeEntidades.pdb
+D:\Proyectos c#\Facturador\CapaDeEntidades\obj\Debug\CapaDeEntidades.csproj.AssemblyReference.cache
+D:\Proyectos c#\Facturador\CapaDeEntidades\obj\Debug\CapaDeEntidades.csproj.CoreCompileInputs.cache
+D:\Proyectos c#\Facturador\CapaDeEntidades\obj\Debug\CapaDeEntidades.dll
+D:\Proyectos c#\Facturador\CapaDeEntidades\obj\Debug\CapaDeEntidades.pdb

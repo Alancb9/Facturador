@@ -1,0 +1,11 @@
+D:\Proyectos c#\Facturador\CapaDeNegocio\bin\Debug\CapaDeNegocio.dll
+D:\Proyectos c#\Facturador\CapaDeNegocio\bin\Debug\CapaDeNegocio.pdb
+D:\Proyectos c#\Facturador\CapaDeNegocio\bin\Debug\CapaDeDatos.dll
+D:\Proyectos c#\Facturador\CapaDeNegocio\bin\Debug\CapaDeEntidades.dll
+D:\Proyectos c#\Facturador\CapaDeNegocio\bin\Debug\CapaDeDatos.pdb
+D:\Proyectos c#\Facturador\CapaDeNegocio\bin\Debug\CapaDeEntidades.pdb
+D:\Proyectos c#\Facturador\CapaDeNegocio\obj\Debug\CapaDeNegocio.csproj.AssemblyReference.cache
+D:\Proyectos c#\Facturador\CapaDeNegocio\obj\Debug\CapaDeNegocio.csproj.CoreCompileInputs.cache
+D:\Proyectos c#\Facturador\CapaDeNegocio\obj\Debug\CapaDeNegocio.csproj.CopyComplete
+D:\Proyectos c#\Facturador\CapaDeNegocio\obj\Debug\CapaDeNegocio.dll
+D:\Proyectos c#\Facturador\CapaDeNegocio\obj\Debug\CapaDeNegocio.pdb
